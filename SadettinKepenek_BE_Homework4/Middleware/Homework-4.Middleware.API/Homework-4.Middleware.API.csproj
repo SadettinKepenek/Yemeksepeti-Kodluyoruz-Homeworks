@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Homework_4.Middleware.API</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Homework-4.Middleware.Infrastructure\Homework-4.Middleware.Infrastructure.csproj" />
+      <ProjectReference Include="..\Homework-4.Middleware.Services\Homework-4.Middleware.Services.csproj" />
+    </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Homework_4.Blog.Services</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Homework-4.Blog.Data\Homework-4.Blog.Data.csproj" />
+      <ProjectReference Include="..\Homework-4.Blog.Domain\Homework-4.Blog.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Homework_4.Singleton_Transient_Scoped.API</RootNamespace>
+    </PropertyGroup>
+
+
+</Project>

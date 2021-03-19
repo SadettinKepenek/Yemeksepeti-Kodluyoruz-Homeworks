@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UserSecretsId>dotnet-Homework_4.WorkerService-EAFBB65A-872D-4AD2-8D54-3600722C9BD7</UserSecretsId>
+        <RootNamespace>Homework_4.WorkerService</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.10" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Homework-4.Worker-Service.Services\Homework-4.Worker-Service.Services.csproj" />
+    </ItemGroup>
+</Project>

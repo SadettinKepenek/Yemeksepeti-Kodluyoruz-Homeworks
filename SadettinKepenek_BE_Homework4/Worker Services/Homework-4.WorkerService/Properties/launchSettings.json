@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Homework_4.WorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
